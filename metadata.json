@@ -1,0 +1,6 @@
+{
+  "name": "YŌKOSO – Premium Japanese & Pan-Asian Restaurant",
+  "description": "Premium Japanese & Pan-Asian dining, online ordering, table reservations, and management system for YŌKOSO Restaurant in Sylhet, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
